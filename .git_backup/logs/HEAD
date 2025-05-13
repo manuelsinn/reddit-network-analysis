@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 4253b07a963d5b52c78c006c83007b1aff0d0222 Engy-ai <122390215+Engy-ai@users.noreply.github.com> 1747127382 +0200	commit (initial): add my files
+4253b07a963d5b52c78c006c83007b1aff0d0222 0000000000000000000000000000000000000000 manuelsinn <122390215+Engy-ai@users.noreply.github.com> 1747128024 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4253b07a963d5b52c78c006c83007b1aff0d0222 manuelsinn <122390215+Engy-ai@users.noreply.github.com> 1747128024 +0200	Branch: renamed refs/heads/master to refs/heads/main
+4253b07a963d5b52c78c006c83007b1aff0d0222 75b57028ee0a41a37db90daeb00eacb6a79d166e manuelsinn <122390215+Engy-ai@users.noreply.github.com> 1747128570 +0200	commit: Remove large files from git history
+75b57028ee0a41a37db90daeb00eacb6a79d166e 4df2f7ff80b3e8d6d940ec5f351a136a1a07734f manuelsinn <122390215+Engy-ai@users.noreply.github.com> 1747128926 +0200	commit: ignore filtered and raw

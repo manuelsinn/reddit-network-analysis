@@ -1,0 +1,3671 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="OLED_Gaming" />
+    <node id="pcgaming" />
+    <node id="FFVIIRemake" />
+    <node id="OptimizedGaming" />
+    <node id="FuckTAA" />
+    <node id="marriedredpill" />
+    <node id="Monitors" />
+    <node id="ultrawidemasterrace" />
+    <node id="gaming" />
+    <node id="cardmagic" />
+    <node id="Homeplate" />
+    <node id="golf" />
+    <node id="AskWomenOver30" />
+    <node id="psychology" />
+    <node id="footballstrategy" />
+    <node id="psychologyofsex" />
+    <node id="Fire" />
+    <node id="singularity" />
+    <node id="barstoolsports" />
+    <node id="powerlifting" />
+    <node id="TheBigPicture" />
+    <node id="bjj" />
+    <node id="ArmchairExpert" />
+    <node id="Teachers" />
+    <node id="Bard" />
+    <node id="IfBooksCouldKill" />
+    <node id="slatestarcodex" />
+    <node id="xxfitness" />
+    <node id="ezraklein" />
+    <node id="skilledtrades" />
+    <node id="ScottGalloway" />
+    <node id="RyenRussillo" />
+    <node id="MarcMaron" />
+    <node id="GenZ" />
+    <node id="TheWhiteLotusHBO" />
+    <node id="PeterAttia" />
+    <node id="PurplePillDebate" />
+    <node id="PivotPodcast" />
+    <node id="naturalbodybuilding" />
+    <node id="sportsbook" />
+    <node id="moreplatesmoredates" />
+    <node id="StrongerByScience" />
+    <node id="basketballcoach" />
+    <node id="billsimmons" />
+    <node id="AskMenOver30" />
+    <node id="IntelligenceTesting" />
+    <node id="AdvancedRunning" />
+    <node id="GuyCry" />
+    <node id="KitchenConfidential" />
+    <node id="gymsnark" />
+    <node id="grok" />
+    <node id="trackandfield" />
+    <node id="workout" />
+    <node id="MiddleClassFinance" />
+    <node id="Damnthatsinteresting" />
+    <node id="nyu" />
+    <node id="science" />
+    <node id="JockoPodcast" />
+    <node id="bikinitalk" />
+    <node id="Mind_Pump" />
+    <node id="AskMenAdvice" />
+    <node id="CollegeBasketball" />
+    <node id="wrestling" />
+    <node id="AcademicPsychology" />
+    <node id="Accounting" />
+    <node id="10s" />
+    <node id="education" />
+    <node id="datascience" />
+    <node id="amiwrong" />
+    <node id="Advice" />
+    <node id="askMRP" />
+    <node id="ArcheroV2" />
+    <node id="CringePurgatory" />
+    <node id="OpenDogTraining" />
+    <node id="samoyeds" />
+    <node id="Salsa" />
+    <node id="Destiny" />
+    <node id="CPTSD" />
+    <node id="socialanxiety" />
+    <node id="BenignExistence" />
+    <node id="MadeMeSmile" />
+    <node id="adhdwomen" />
+    <node id="cats" />
+    <node id="AITAH" />
+    <node id="seduction" />
+    <node id="TheRedPill" />
+    <node id="aspergers" />
+    <node id="footballmanagergames" />
+    <node id="boxingcirclejerk" />
+    <node id="MMA_Academy" />
+    <node id="Intelligence" />
+    <node id="footballmanager" />
+    <node id="mexico" />
+    <node id="RegalUnlimited" />
+    <node id="redscarepod" />
+    <node id="attackontitan" />
+    <node id="ShingekiNoKyojin" />
+    <node id="ussr" />
+    <node id="Catholicism" />
+    <node id="IslamicHistoryMeme" />
+    <node id="soccercirclejerk" />
+    <node id="championsleague" />
+    <node id="ExplainTheJoke" />
+    <node id="AskMexico" />
+    <node id="cartels" />
+    <node id="Oceanside" />
+    <node id="MuayThai" />
+    <node id="fakehistoryporn" />
+    <node id="reddevils" />
+    <node id="UrbanHell" />
+    <node id="iqtest" />
+    <node id="chulavista" />
+    <node id="SanDiegoFC" />
+    <node id="AskReddit" />
+    <node id="CasualPT" />
+    <node id="portugal" />
+    <node id="Delft" />
+    <node id="TheHague" />
+    <node id="Bumble" />
+    <node id="leiria" />
+    <node id="RedPillMen" />
+    <node id="Myfitnesspal" />
+    <node id="fitnessportugal" />
+    <node id="Unity3D" />
+    <node id="Santiago" />
+    <node id="chile" />
+    <node id="aws" />
+    <node id="chileIT" />
+    <node id="Entrepreneur" />
+    <node id="virtualreality" />
+    <node id="PsychologyTalk" />
+    <node id="HowardCountyMD" />
+    <node id="ColumbiaMD" />
+    <node id="hyderabad" />
+    <node id="indianbikes" />
+    <node id="bondha_diaries" />
+    <node id="Indiangirlsontinder" />
+    <node id="scienceisdope" />
+    <node id="Fitness_India" />
+    <node id="CreditCardsIndia" />
+    <node id="pune" />
+    <node id="accenture_india" />
+    <node id="FIRE_Ind" />
+    <node id="watchesindia" />
+    <node id="LegalAdviceIndia" />
+    <node id="HondaHighnessCB350" />
+    <node id="InsideIndianMarriage" />
+    <node id="vedicastrology" />
+    <node id="IndianWorkplace" />
+    <node id="motorcycles" />
+    <node id="TeluguMusicMelodies" />
+    <node id="AskIndia" />
+    <node id="headphonesindia" />
+    <node id="Telangana" />
+    <node id="indiadiscussion" />
+    <node id="vitchennai" />
+    <node id="Teenager" />
+    <node id="Grok_Bhaiya" />
+    <node id="IndiasGotLatent" />
+    <node id="PeterExplainsTheJoke" />
+    <node id="indianmemer" />
+    <node id="WorkoutRoutines" />
+    <node id="patriceoneal" />
+    <node id="strength_training" />
+    <node id="camping" />
+    <node id="WeightTraining" />
+    <node id="CasualConversation" />
+    <node id="AngionMethod" />
+    <node id="Adulting" />
+    <node id="f3nation" />
+    <node id="SpittinChicletsPod" />
+    <node id="expats" />
+    <node id="soccer" />
+    <node id="domspace" />
+    <node id="SofterBDSM" />
+    <node id="lawncare" />
+    <node id="CanadianIdiots" />
+    <node id="Dalhousie" />
+    <node id="TorontoDriving" />
+    <node id="askcarguys" />
+    <node id="MildlyBadDrivers" />
+    <node id="GolfGTI" />
+    <node id="canada" />
+    <node id="TorontoRealEstate" />
+    <node id="EhBuddyHoser" />
+    <node id="BuyCanadian" />
+    <node id="CanadaFinance" />
+    <node id="CostcoCanada" />
+    <node id="CanadaCultureClub" />
+    <node id="CanadianInvestor" />
+    <node id="Pickering" />
+    <node id="CanadaJobs" />
+    <node id="durham" />
+    <node id="saskatchewan" />
+    <node id="pics" />
+    <node id="newfoundland" />
+    <node id="loblawsisoutofcontrol" />
+    <node id="ManualTransmissions" />
+    <node id="TimHortons" />
+    <node id="Volkswagen" />
+    <node id="newbrunswickcanada" />
+    <node id="Scarborough" />
+    <node id="Audi" />
+    <node id="RealEstateCanada" />
+    <node id="canadahousing" />
+    <node id="MurderedByWords" />
+    <node id="europe" />
+    <node id="mildlyinteresting" />
+    <node id="ProfessorFinance" />
+    <node id="WildRoseCountry" />
+    <node id="brantford" />
+    <node id="AutismCertified" />
+    <node id="Noses" />
+    <node id="Productivitycafe" />
+    <node id="oxford" />
+    <node id="Cd_collectors" />
+    <node id="AskBrits" />
+    <node id="RPChristians" />
+    <node id="GalaxyTab" />
+    <node id="Vitards" />
+    <node id="marriageadvice" />
+    <node id="offmychest" />
+    <node id="realtors" />
+    <node id="relationship_advice" />
+    <node id="malelivingspace" />
+    <node id="RedPillWomen" />
+    <node id="dating_advice" />
+    <node id="TwoHotTakes" />
+    <node id="blackgirls" />
+    <node id="bodylanguage" />
+    <node id="moraldilemmas" />
+    <node id="ADHD" />
+    <node id="heartbreak" />
+    <node id="NPD" />
+    <node id="DeadBedrooms" />
+    <node id="ADHDWomenAfterDark" />
+    <node id="inflation" />
+    <node id="BreakUps" />
+    <node id="Custody" />
+    <node id="MarriedSex" />
+    <node id="JosephMurphy" />
+    <node id="NevilleGoddard" />
+    <node id="BollyBlindsNGossip" />
+    <node id="u_godofstates" />
+    <node id="bollywood" />
+    <node id="AskIndianWomen" />
+    <node id="longtermTRE" />
+    <node id="SATSing" />
+    <node id="Indianbooks" />
+    <node id="NevilleGoddard2" />
+    <node id="ManifestingMemes" />
+    <node id="bollywoodmemes" />
+    <node id="Rajasthan" />
+    <node id="sachintendulkar" />
+    <node id="indianfitness" />
+    <node id="nonduality" />
+    <node id="RealDayTrading" />
+    <node id="walking" />
+    <node id="IndianHaircare" />
+    <node id="TeenIndia" />
+    <node id="mumbai" />
+    <node id="edensgreen" />
+    <node id="AskIndianMen" />
+    <node id="hindumemes" />
+    <node id="DesiFragranceAddicts" />
+    <node id="Bhubaneswar" />
+    <node id="Divorce_Men" />
+    <node id="TheOhHellos" />
+    <node id="Marriage" />
+    <node id="Ducati" />
+    <node id="workouts" />
+    <node id="AmIOverreacting" />
+    <node id="DeepThoughts" />
+    <node id="self" />
+    <node id="thepassportbros" />
+    <node id="weightgain" />
+    <node id="PrettyNails_HardCock" />
+    <node id="Panty_drawers" />
+    <node id="HandjobHaven" />
+    <node id="Wifesfeetpics" />
+    <node id="NSFWMonochrome" />
+    <node id="measuredpenis" />
+    <node id="HotWifeLifestyle" />
+    <node id="MagicMushrooms" />
+    <node id="LovelyHands" />
+    <node id="therewasanattempt" />
+    <node id="CockComparePersonals" />
+    <node id="MommyHeaven" />
+    <node id="showingoffwifey" />
+    <node id="FrenulumBJs" />
+    <node id="bluetoenails" />
+    <node id="CandaulismViews" />
+    <node id="ChurchWife" />
+    <node id="CasualDickTouching" />
+    <node id="FlashTheTruckers" />
+    <node id="masturbation" />
+    <node id="WouldYouFuckMyWife" />
+    <node id="Footjob" />
+    <node id="investing" />
+    <node id="BrevilleCoffee" />
+    <node id="TeslaFSD" />
+    <node id="ChubbyFIRE" />
+    <node id="politics" />
+    <node id="fatFIRE" />
+    <node id="SubstituteTeachers" />
+    <node id="Bogleheads" />
+    <node id="sarasota" />
+    <node id="sugarlifestyleforum" />
+    <node id="DotA2" />
+    <node id="leaves" />
+    <node id="bald" />
+    <node id="makemychoice" />
+    <node id="lostgeneration" />
+    <node id="jobs" />
+    <node id="ClubStudio" />
+    <node id="MightyNo9" />
+    <node id="NoStupidQuestions" />
+    <node id="animeexpo" />
+    <node id="EatTheRich" />
+    <node id="macbookpro" />
+    <node id="business" />
+    <node id="GhostAdventures" />
+    <node id="PublicFreakout" />
+    <node id="cscareerquestions" />
+    <node id="California" />
+    <node id="temptationislandUSA" />
+    <node id="ROGAlly" />
+    <node id="Ningen" />
+    <node id="SipsTea" />
+    <node id="PickUpArtist" />
+    <node id="J_Horror" />
+    <node id="playstation" />
+    <node id="CostaMesa" />
+    <node id="antiwork" />
+    <node id="ROGAllyX" />
+    <node id="csMajors" />
+    <node id="longbeach" />
+    <node id="Jung" />
+    <node id="Bengaluru" />
+    <node id="leetcode" />
+    <node id="IndianStockMarket" />
+    <edge source="OLED_Gaming" target="OLED_Gaming">
+      <data key="d0">99.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="pcgaming">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="FFVIIRemake">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="FuckTAA">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="OptimizedGaming">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="Monitors">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="ultrawidemasterrace">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OLED_Gaming" target="cardmagic">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pcgaming" target="OLED_Gaming">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="pcgaming" target="OptimizedGaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FFVIIRemake" target="OLED_Gaming">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="FFVIIRemake" target="FFVIIRemake">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OptimizedGaming" target="pcgaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OptimizedGaming" target="OptimizedGaming">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="OptimizedGaming" target="OLED_Gaming">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OptimizedGaming" target="Monitors">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="FuckTAA" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FuckTAA" target="OLED_Gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="OLED_Gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="marriedredpill">
+      <data key="d0">427.0</data>
+    </edge>
+    <edge source="marriedredpill" target="amiwrong">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Advice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriedredpill" target="OpenDogTraining">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriedredpill" target="CPTSD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="AITAH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriedredpill" target="seduction">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="TheRedPill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="footballmanagergames">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="CasualPT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Entrepreneur">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="AskReddit">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="marriedredpill" target="HowardCountyMD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="HondaHighnessCB350">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="camping">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriedredpill" target="soccer">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="domspace">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="SofterBDSM">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriedredpill" target="lawncare">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="ProfessorFinance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Noses">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Productivitycafe">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="RPChristians">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="GalaxyTab">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Vitards">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="dating_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="SATSing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Divorce_Men">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="thepassportbros">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="askMRP">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Wifesfeetpics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="SubstituteTeachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Bogleheads">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="BreakUps">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Adulting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="WeightTraining">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="Jung">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriedredpill" target="IndianStockMarket">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Monitors" target="OptimizedGaming">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Monitors" target="ultrawidemasterrace">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Monitors" target="Monitors">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="Monitors" target="OLED_Gaming">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="Monitors" target="FFVIIRemake">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ultrawidemasterrace" target="OLED_Gaming">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="ultrawidemasterrace" target="ultrawidemasterrace">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="ultrawidemasterrace" target="gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gaming" target="OLED_Gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gaming" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="cardmagic" target="OLED_Gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="golf">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Homeplate" target="ArmchairExpert">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="Homeplate">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Homeplate" target="barstoolsports">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Homeplate" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="ezraklein">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Homeplate" target="science">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Homeplate" target="Accounting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Homeplate" target="RyenRussillo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="AskWomenOver30">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="golf" target="Teachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="GenZ">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="golf">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="golf" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="basketballcoach">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="barstoolsports">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="golf" target="TheWhiteLotusHBO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="ezraklein">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="golf" target="grok">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="IfBooksCouldKill">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="golf" target="slatestarcodex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="workout">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="Damnthatsinteresting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="science">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="golf" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="psychology">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="IfBooksCouldKill">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="Homeplate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="slatestarcodex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="GenZ">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="ezraklein">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="PurplePillDebate">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="AskWomenOver30">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="StrongerByScience">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="moreplatesmoredates">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="skilledtrades">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="footballstrategy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="barstoolsports">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="golf">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="RyenRussillo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="ScottGalloway">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="TheWhiteLotusHBO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="science">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="bikinitalk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskWomenOver30" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="psychology" target="psychology">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="psychology" target="footballstrategy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="AskWomenOver30">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="psychology" target="PeterAttia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="PivotPodcast">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychology" target="bikinitalk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballstrategy" target="psychologyofsex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballstrategy" target="PivotPodcast">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="footballstrategy" target="AskMenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballstrategy" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychologyofsex" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychologyofsex" target="powerlifting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychologyofsex" target="psychologyofsex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychologyofsex" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="ezraklein">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Fire" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="slatestarcodex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="Accounting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="TeslaFSD">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Fire" target="SubstituteTeachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="sarasota">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="Bogleheads">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fire" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="barstoolsports">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="singularity" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="Homeplate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="singularity" target="singularity">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="singularity" target="xxfitness">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="singularity" target="virtualreality">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="barstoolsports">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="barstoolsports" target="psychologyofsex">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="AskWomenOver30">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="barstoolsports" target="singularity">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="barstoolsports" target="bjj">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="TheWhiteLotusHBO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="PeterAttia">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="GenZ">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="slatestarcodex">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="barstoolsports" target="sportsbook">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="ezraklein">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="barstoolsports" target="xxfitness">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="ArmchairExpert">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="golf">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="barstoolsports" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="moreplatesmoredates">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="footballstrategy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="Homeplate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="barstoolsports" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="MarcMaron">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="CollegeBasketball">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="AcademicPsychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="barstoolsports" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="powerlifting" target="TheBigPicture">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="powerlifting" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheBigPicture" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bjj" target="Homeplate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="bjj" target="skilledtrades">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bjj" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bjj" target="barstoolsports">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="bjj" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bjj" target="Destiny">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ArmchairExpert" target="Teachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ArmchairExpert" target="ArmchairExpert">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ArmchairExpert" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ArmchairExpert" target="AdvancedRunning">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Teachers" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Teachers" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Teachers" target="MiddleClassFinance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bard" target="Bard">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Bard" target="barstoolsports">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Bard" target="IntelligenceTesting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bard" target="ArmchairExpert">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bard" target="MarcMaron">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bard" target="Homeplate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Bard" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="AskWomenOver30">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="powerlifting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="IfBooksCouldKill">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="ezraklein">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="billsimmons">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="slatestarcodex">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="PivotPodcast">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IfBooksCouldKill" target="10s">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="PurplePillDebate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="barstoolsports">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="slatestarcodex" target="Accounting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="xxfitness" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="xxfitness" target="slatestarcodex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="xxfitness" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="ezraklein">
+      <data key="d0">34.0</data>
+    </edge>
+    <edge source="ezraklein" target="IfBooksCouldKill">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="ezraklein" target="AskWomenOver30">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ezraklein" target="TheWhiteLotusHBO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="Fire">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="moreplatesmoredates">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="ezraklein" target="slatestarcodex">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="Bard">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="ScottGalloway">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="footballstrategy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="golf">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ezraklein" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="barstoolsports">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ezraklein" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="Teachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="PeterAttia">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="ezraklein" target="grok">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="PurplePillDebate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="Accounting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="xxfitness">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ezraklein" target="science">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ezraklein" target="RyenRussillo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="skilledtrades" target="skilledtrades">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="skilledtrades" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="skilledtrades" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="skilledtrades" target="MarcMaron">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="RyenRussillo">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="ScottGalloway">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="ezraklein">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="slatestarcodex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="PurplePillDebate">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="nyu">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="Mind_Pump">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ScottGalloway" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RyenRussillo" target="MarcMaron">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RyenRussillo" target="ezraklein">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RyenRussillo" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RyenRussillo" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MarcMaron" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MarcMaron" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MarcMaron" target="AskMenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MarcMaron" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MarcMaron" target="grok">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GenZ" target="golf">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="GenZ" target="skilledtrades">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GenZ" target="GenZ">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GenZ" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GenZ" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheWhiteLotusHBO" target="AskWomenOver30">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="TheWhiteLotusHBO" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheWhiteLotusHBO" target="TheWhiteLotusHBO">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="TheWhiteLotusHBO" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PeterAttia" target="PeterAttia">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="PeterAttia" target="barstoolsports">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="PeterAttia" target="Accounting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PeterAttia" target="moreplatesmoredates">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="ezraklein">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="PurplePillDebate">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="AskWomenOver30">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="GenZ">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="barstoolsports">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="science">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="AskMenOver30">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="PurplePillDebate" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PivotPodcast" target="PivotPodcast">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="PivotPodcast" target="naturalbodybuilding">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="PivotPodcast" target="footballstrategy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PivotPodcast" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="naturalbodybuilding">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="KitchenConfidential">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="PurplePillDebate">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="Fire">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="naturalbodybuilding" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="sportsbook" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="barstoolsports">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="basketballcoach">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="moreplatesmoredates">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="ezraklein">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="golf">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moreplatesmoredates" target="datascience">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="StrongerByScience" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="basketballcoach" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="basketballcoach" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="MarcMaron">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="billsimmons">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="billsimmons" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="Bard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="golf">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="billsimmons" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="billsimmons" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenOver30" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenOver30" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenOver30" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenOver30" target="KitchenConfidential">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IntelligenceTesting" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AdvancedRunning" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="WorkoutRoutines">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="offmychest">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="GuyCry">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GuyCry" target="moraldilemmas">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="bikinitalk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GuyCry" target="marriedredpill">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="GuyCry" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="KitchenConfidential" target="KitchenConfidential">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="KitchenConfidential" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="KitchenConfidential" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gymsnark" target="TheWhiteLotusHBO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="grok" target="trackandfield">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="grok" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="grok" target="grok">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="grok" target="billsimmons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trackandfield" target="naturalbodybuilding">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="workout" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MiddleClassFinance" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Damnthatsinteresting" target="Damnthatsinteresting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Damnthatsinteresting" target="nyu">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nyu" target="nyu">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="nyu" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nyu" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="science" target="gymsnark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="science" target="science">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="science" target="AskWomenOver30">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="science" target="Homeplate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="science" target="JockoPodcast">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="science" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JockoPodcast" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bikinitalk" target="AskWomenOver30">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bikinitalk" target="moreplatesmoredates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bikinitalk" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Mind_Pump" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="AskWomenOver30">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="ScottGalloway">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="Bard">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="AskMenAdvice">
+      <data key="d0">64.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="IfBooksCouldKill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="education">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="10s">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="WeightTraining">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="AngionMethod">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="Adulting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="AITAH">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="f3nation">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="Advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="gaming">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="offmychest">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="blackgirls">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="MarriedSex">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="askMRP">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMenAdvice" target="GhostAdventures">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CollegeBasketball" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="wrestling" target="ScottGalloway">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AcademicPsychology" target="barstoolsports">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Accounting" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Accounting" target="Accounting">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Accounting" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Accounting" target="PeterAttia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Accounting" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Accounting" target="golf">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="10s" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="10s" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="education" target="ezraklein">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="datascience" target="psychology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="amiwrong" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="askMRP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="AskReddit">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Advice" target="PsychologyTalk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="Advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="realtors">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Advice" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="askMRP" target="marriedredpill">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="askMRP" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="askMRP" target="AmIOverreacting">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="askMRP" target="askMRP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ArcheroV2" target="CringePurgatory">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CringePurgatory" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OpenDogTraining" target="OpenDogTraining">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="OpenDogTraining" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OpenDogTraining" target="samoyeds">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OpenDogTraining" target="bjj">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="samoyeds" target="Salsa">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Salsa" target="OpenDogTraining">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CPTSD" target="CPTSD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CPTSD" target="socialanxiety">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CPTSD" target="MadeMeSmile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CPTSD" target="adhdwomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="socialanxiety" target="BenignExistence">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="socialanxiety" target="CPTSD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BenignExistence" target="CPTSD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MadeMeSmile" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MadeMeSmile" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MadeMeSmile" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="adhdwomen" target="cats">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="cats" target="socialanxiety">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AITAH" target="marriedredpill">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AITAH" target="AITAH">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AITAH" target="patriceoneal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AITAH" target="strength_training">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AITAH" target="AskMenAdvice">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AITAH" target="dating_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AITAH" target="RedPillWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="seduction" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="seduction" target="seduction">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="seduction" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="seduction" target="Bhubaneswar">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="seduction" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheRedPill" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aspergers" target="aspergers">
+      <data key="d0">63.0</data>
+    </edge>
+    <edge source="aspergers" target="footballmanagergames">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="aspergers" target="mexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aspergers" target="boxingcirclejerk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="aspergers" target="footballmanager">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="aspergers" target="ShingekiNoKyojin">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="aspergers" target="ussr">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aspergers" target="IslamicHistoryMeme">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aspergers" target="soccercirclejerk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="aspergers" target="championsleague">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aspergers" target="AskMexico">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="footballmanagergames">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="boxingcirclejerk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="Intelligence">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="aspergers">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="RegalUnlimited">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="attackontitan">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="ExplainTheJoke">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="AskMexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="soccercirclejerk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="footballmanager">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="MuayThai">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanagergames" target="chulavista">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="boxingcirclejerk" target="MMA_Academy">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="boxingcirclejerk" target="redscarepod">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="boxingcirclejerk" target="AskMexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MMA_Academy" target="footballmanagergames">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Intelligence" target="footballmanager">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanager" target="mexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanager" target="aspergers">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="footballmanager" target="cartels">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanager" target="footballmanager">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="footballmanager" target="Oceanside">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mexico" target="footballmanagergames">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mexico" target="mexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mexico" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RegalUnlimited" target="mexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redscarepod" target="redscarepod">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redscarepod" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="attackontitan" target="attackontitan">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="attackontitan" target="footballmanagergames">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ShingekiNoKyojin" target="aspergers">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="ShingekiNoKyojin" target="Catholicism">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ussr" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Catholicism" target="Catholicism">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Catholicism" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IslamicHistoryMeme" target="soccercirclejerk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="soccercirclejerk" target="soccercirclejerk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="soccercirclejerk" target="aspergers">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="soccercirclejerk" target="footballmanagergames">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="soccercirclejerk" target="iqtest">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="championsleague" target="championsleague">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="championsleague" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ExplainTheJoke" target="AskMexico">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ExplainTheJoke" target="europe">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMexico" target="AskMexico">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMexico" target="aspergers">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskMexico" target="footballmanager">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMexico" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskMexico" target="AskReddit">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="cartels" target="footballmanagergames">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Oceanside" target="footballmanagergames">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MuayThai" target="fakehistoryporn">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="fakehistoryporn" target="reddevils">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="reddevils" target="UrbanHell">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UrbanHell" target="soccercirclejerk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="iqtest" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chulavista" target="chulavista">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chulavista" target="SanDiegoFC">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SanDiegoFC" target="aspergers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskReddit" target="AskReddit">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="AskReddit" target="Advice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskReddit" target="marriedredpill">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AskReddit" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskReddit" target="J_Horror">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualPT" target="CasualPT">
+      <data key="d0">139.0</data>
+    </edge>
+    <edge source="CasualPT" target="portugal">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CasualPT" target="Delft">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualPT" target="Bumble">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualPT" target="leiria">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualPT" target="Myfitnesspal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="portugal" target="CasualPT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="portugal" target="portugal">
+      <data key="d0">68.0</data>
+    </edge>
+    <edge source="portugal" target="Delft">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="portugal" target="TheHague">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="portugal" target="Bumble">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="portugal" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="portugal" target="Myfitnesspal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="portugal" target="fitnessportugal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Delft" target="Delft">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Delft" target="portugal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Delft" target="TheHague">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheHague" target="portugal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Bumble" target="Bumble">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="Bumble" target="portugal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Bumble" target="CasualPT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="leiria" target="leiria">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="leiria" target="RedPillMen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RedPillMen" target="RedPillMen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RedPillMen" target="CasualPT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Myfitnesspal" target="portugal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Myfitnesspal" target="Myfitnesspal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="fitnessportugal" target="fitnessportugal">
+      <data key="d0">23.0</data>
+    </edge>
+    <edge source="fitnessportugal" target="portugal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Unity3D" target="Santiago">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Santiago" target="chile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Santiago" target="singularity">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chile" target="chile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chile" target="aws">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chile" target="chileIT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="aws" target="chile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chileIT" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Entrepreneur" target="Santiago">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PsychologyTalk" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HowardCountyMD" target="ColumbiaMD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ColumbiaMD" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="hyderabad">
+      <data key="d0">47.0</data>
+    </edge>
+    <edge source="hyderabad" target="indianbikes">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="hyderabad" target="bondha_diaries">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="hyderabad" target="scienceisdope">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="Fitness_India">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="CreditCardsIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="Indiangirlsontinder">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="hyderabad" target="LegalAdviceIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="HondaHighnessCB350">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hyderabad" target="InsideIndianMarriage">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="pune">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="Grok_Bhaiya">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hyderabad" target="IndiasGotLatent">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="hyderabad">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="indianbikes" target="Fitness_India">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="indianbikes" target="bondha_diaries">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="indianbikes" target="Indiangirlsontinder">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="indianbikes" target="indianbikes">
+      <data key="d0">53.0</data>
+    </edge>
+    <edge source="indianbikes" target="HondaHighnessCB350">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="indianbikes" target="AskIndia">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indianbikes" target="InsideIndianMarriage">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indianbikes" target="Telangana">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="indiadiscussion">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="pune">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indianbikes" target="vitchennai">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="LegalAdviceIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="PeterExplainsTheJoke">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianbikes" target="indianmemer">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="Indiangirlsontinder">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="Fitness_India">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="hyderabad">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="pune">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="indianbikes">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="bondha_diaries">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="accenture_india">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="CreditCardsIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="TeluguMusicMelodies">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="headphonesindia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="indiadiscussion">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bondha_diaries" target="HondaHighnessCB350">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="hyderabad">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="bondha_diaries">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="Fitness_India">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="indianbikes">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="Indiangirlsontinder">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="vedicastrology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="scienceisdope">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="AskIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indiangirlsontinder" target="HondaHighnessCB350">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="scienceisdope" target="Fitness_India">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="scienceisdope" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fitness_India" target="hyderabad">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Fitness_India" target="Indiangirlsontinder">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Fitness_India" target="bondha_diaries">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Fitness_India" target="IndianWorkplace">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fitness_India" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fitness_India" target="InsideIndianMarriage">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fitness_India" target="AskIndianWomen">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Fitness_India" target="Fitness_India">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="Fitness_India" target="ManifestingMemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Fitness_India" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CreditCardsIndia" target="bondha_diaries">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CreditCardsIndia" target="CreditCardsIndia">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="CreditCardsIndia" target="watchesindia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pune" target="pune">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="pune" target="bondha_diaries">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pune" target="indianbikes">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pune" target="vedicastrology">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="accenture_india" target="FIRE_Ind">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FIRE_Ind" target="bondha_diaries">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="watchesindia" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LegalAdviceIndia" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LegalAdviceIndia" target="HondaHighnessCB350">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="motorcycles">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="indianbikes">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="Teenager">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="HondaHighnessCB350">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="HondaHighnessCB350" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="InsideIndianMarriage" target="InsideIndianMarriage">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="InsideIndianMarriage" target="hyderabad">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="InsideIndianMarriage" target="bondha_diaries">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="InsideIndianMarriage" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="vedicastrology" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="vedicastrology" target="bondha_diaries">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IndianWorkplace" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="motorcycles" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeluguMusicMelodies" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndia" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndia" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndia" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="headphonesindia" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Telangana" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indiadiscussion" target="HondaHighnessCB350">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indiadiscussion" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="vitchennai" target="indianbikes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Teenager" target="bondha_diaries">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Grok_Bhaiya" target="Fitness_India">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IndiasGotLatent" target="Indiangirlsontinder">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PeterExplainsTheJoke" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianmemer" target="hyderabad">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WorkoutRoutines" target="Advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="patriceoneal" target="patriceoneal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="patriceoneal" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="strength_training" target="strength_training">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="strength_training" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="camping" target="WeightTraining">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WeightTraining" target="AskMenAdvice">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="WeightTraining" target="WeightTraining">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="WeightTraining" target="CasualConversation">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WeightTraining" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualConversation" target="WeightTraining">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AngionMethod" target="AngionMethod">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="AngionMethod" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Adulting" target="AITAH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Adulting" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="f3nation" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SpittinChicletsPod" target="expats">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="expats" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="domspace" target="askMRP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SofterBDSM" target="marriedredpill">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="lawncare" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="CanadianIdiots">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="Dalhousie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="askcarguys">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="canada">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="TorontoRealEstate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="GolfGTI">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="CanadaFinance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="BuyCanadian">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="CanadaCultureClub">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="RealEstateCanada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="canadahousing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="Audi">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianIdiots" target="brantford">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Dalhousie" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Dalhousie" target="Dalhousie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Dalhousie" target="CanadianIdiots">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="TorontoDriving" target="CanadianIdiots">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="TorontoDriving" target="MildlyBadDrivers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TorontoDriving" target="canada">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="TorontoDriving" target="GolfGTI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="askcarguys" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="askcarguys" target="CanadianIdiots">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MildlyBadDrivers" target="GolfGTI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GolfGTI" target="CanadianIdiots">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="GolfGTI" target="canada">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="GolfGTI" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GolfGTI" target="GolfGTI">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="GolfGTI" target="CanadaCultureClub">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GolfGTI" target="ManualTransmissions">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GolfGTI" target="canadahousing">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canada" target="canada">
+      <data key="d0">57.0</data>
+    </edge>
+    <edge source="canada" target="Dalhousie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="BuyCanadian">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="canada" target="durham">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="TorontoRealEstate">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="canada" target="CanadianIdiots">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canada" target="GolfGTI">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="canada" target="saskatchewan">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canada" target="EhBuddyHoser">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="newfoundland">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canada" target="loblawsisoutofcontrol">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="CanadianInvestor">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canada" target="newbrunswickcanada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="Scarborough">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="CanadaCultureClub">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="RealEstateCanada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="CanadaJobs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="canadahousing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canada" target="MurderedByWords">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TorontoRealEstate" target="EhBuddyHoser">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TorontoRealEstate" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TorontoRealEstate" target="canada">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="TorontoRealEstate" target="CanadaJobs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TorontoRealEstate" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EhBuddyHoser" target="EhBuddyHoser">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EhBuddyHoser" target="Dalhousie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EhBuddyHoser" target="GolfGTI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="CanadianIdiots">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="BuyCanadian">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="CanadaCultureClub">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="canada">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="Volkswagen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="pics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="mildlyinteresting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BuyCanadian" target="canadahousing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaFinance" target="CostcoCanada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CostcoCanada" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaCultureClub" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaCultureClub" target="pics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaCultureClub" target="CanadianIdiots">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="CanadaCultureClub" target="CanadaCultureClub">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="Pickering">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="TimHortons">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="TorontoDriving">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="Volkswagen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadianInvestor" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Pickering" target="CanadaJobs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaJobs" target="canada">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="CanadaJobs" target="CanadianIdiots">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CanadaJobs" target="newfoundland">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="durham" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="saskatchewan" target="canada">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pics" target="pics">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pics" target="CanadianIdiots">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pics" target="CanadaJobs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="newfoundland" target="newfoundland">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="newfoundland" target="askcarguys">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="newfoundland" target="canada">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="newfoundland" target="TorontoRealEstate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="loblawsisoutofcontrol" target="newfoundland">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ManualTransmissions" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TimHortons" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Volkswagen" target="Volkswagen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Volkswagen" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Volkswagen" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Volkswagen" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="newbrunswickcanada" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Scarborough" target="Audi">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Audi" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Audi" target="CanadianIdiots">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RealEstateCanada" target="RealEstateCanada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RealEstateCanada" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RealEstateCanada" target="canada">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadahousing" target="CanadianIdiots">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadahousing" target="WildRoseCountry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadahousing" target="GolfGTI">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canadahousing" target="canadahousing">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canadahousing" target="CanadaCultureClub">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MurderedByWords" target="ExplainTheJoke">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="europe" target="europe">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="europe" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mildlyinteresting" target="CanadianInvestor">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ProfessorFinance" target="TorontoRealEstate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WildRoseCountry" target="GolfGTI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="brantford" target="BuyCanadian">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AutismCertified" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Noses" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Productivitycafe" target="oxford">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Productivitycafe" target="Cd_collectors">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="oxford" target="Productivitycafe">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="oxford" target="AskBrits">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Cd_collectors" target="oxford">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RPChristians" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GalaxyTab" target="GalaxyTab">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GalaxyTab" target="TheRedPill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="offmychest">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="marriageadvice" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="AskMenAdvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="marriageadvice" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="Advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="realtors">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="RedPillWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="DeadBedrooms">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="marriageadvice" target="ADHDWomenAfterDark">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="offmychest" target="offmychest">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="offmychest" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="offmychest" target="Advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="offmychest" target="marriageadvice">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="offmychest" target="malelivingspace">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="realtors" target="offmychest">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="realtors" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="realtors" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="AskReddit">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="blackgirls">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="relationship_advice" target="BreakUps">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="malelivingspace" target="RedPillWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RedPillWomen" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RedPillWomen" target="TwoHotTakes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RedPillWomen" target="marriageadvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RedPillWomen" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dating_advice" target="dating_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dating_advice" target="RedPillWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dating_advice" target="NPD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dating_advice" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TwoHotTakes" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TwoHotTakes" target="TwoHotTakes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TwoHotTakes" target="self">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="blackgirls" target="bodylanguage">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="blackgirls" target="realtors">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bodylanguage" target="AskMenAdvice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="moraldilemmas" target="ADHD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ADHD" target="heartbreak">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="heartbreak" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NPD" target="DeadBedrooms">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DeadBedrooms" target="marriageadvice">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ADHDWomenAfterDark" target="inflation">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="inflation" target="inflation">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="inflation" target="relationship_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BreakUps" target="BreakUps">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BreakUps" target="Custody">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Custody" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JosephMurphy" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="BollyBlindsNGossip">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="AskIndianWomen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="ManifestingMemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="NevilleGoddard2">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="Fitness_India">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NevilleGoddard" target="AskIndianMen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="BollyBlindsNGossip" target="BollyBlindsNGossip">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BollyBlindsNGossip" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BollyBlindsNGossip" target="DesiFragranceAddicts">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="bollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="u_godofstates">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="u_godofstates" target="AskIndianWomen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="u_godofstates" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="NevilleGoddard2">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="ManifestingMemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="edensgreen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="u_godofstates" target="IndianHaircare">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywood" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywood" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywood" target="AskIndianMen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="longtermTRE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="AskIndianWomen">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="Indianbooks">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="NevilleGoddard2">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="Fitness_India">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="bollywoodmemes">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="MadeMeSmile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="NevilleGoddard">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="RealDayTrading">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="IndianHaircare">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="DesiFragranceAddicts">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianWomen" target="bollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="longtermTRE" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SATSing" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="Indianbooks">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="Indianbooks" target="u_godofstates">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Indianbooks" target="AskIndianWomen">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="Indianbooks" target="Rajasthan">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="indianfitness">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="nonduality">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="RealDayTrading">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="walking">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Indianbooks" target="IndianHaircare">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="AskIndianWomen">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="MadeMeSmile">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="NevilleGoddard2">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="dating_advice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="mumbai">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="Fitness_India">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="AskIndianMen">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="seduction">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NevilleGoddard2" target="edensgreen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ManifestingMemes" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ManifestingMemes" target="ManifestingMemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ManifestingMemes" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ManifestingMemes" target="seduction">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywoodmemes" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywoodmemes" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bollywoodmemes" target="NevilleGoddard2">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Rajasthan" target="sachintendulkar">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="sachintendulkar" target="Fitness_India">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indianfitness" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nonduality" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nonduality" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RealDayTrading" target="bollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RealDayTrading" target="TeenIndia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="walking" target="walking">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="walking" target="Indianbooks">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IndianHaircare" target="NevilleGoddard2">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="IndianHaircare" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeenIndia" target="bollywoodmemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mumbai" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="edensgreen" target="u_godofstates">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="edensgreen" target="AskIndianWomen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianMen" target="AskIndianMen">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="AskIndianMen" target="NevilleGoddard2">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AskIndianMen" target="bollywoodmemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianMen" target="hindumemes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AskIndianMen" target="BollyBlindsNGossip">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hindumemes" target="nonduality">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DesiFragranceAddicts" target="NevilleGoddard2">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DesiFragranceAddicts" target="NevilleGoddard">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bhubaneswar" target="NevilleGoddard2">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Divorce_Men" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TheOhHellos" target="TheOhHellos">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="TheOhHellos" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Marriage" target="Ducati">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Ducati" target="workouts">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Ducati" target="AmIOverreacting">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="workouts" target="Ducati">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AmIOverreacting" target="DeepThoughts">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AmIOverreacting" target="weightgain">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DeepThoughts" target="TwoHotTakes">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="self" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="thepassportbros" target="thepassportbros">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="thepassportbros" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="weightgain" target="askMRP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PrettyNails_HardCock" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PrettyNails_HardCock" target="HandjobHaven">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PrettyNails_HardCock" target="showingoffwifey">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PrettyNails_HardCock" target="PrettyNails_HardCock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PrettyNails_HardCock" target="CandaulismViews">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="PrettyNails_HardCock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="Wifesfeetpics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="measuredpenis">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Panty_drawers" target="bluetoenails">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HandjobHaven" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Wifesfeetpics" target="NSFWMonochrome">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Wifesfeetpics" target="CockComparePersonals">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Wifesfeetpics" target="PrettyNails_HardCock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NSFWMonochrome" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="measuredpenis" target="HotWifeLifestyle">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HotWifeLifestyle" target="MagicMushrooms">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MagicMushrooms" target="LovelyHands">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LovelyHands" target="therewasanattempt">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="therewasanattempt" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CockComparePersonals" target="MommyHeaven">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MommyHeaven" target="Wifesfeetpics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="showingoffwifey" target="FrenulumBJs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FrenulumBJs" target="Panty_drawers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bluetoenails" target="PrettyNails_HardCock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CandaulismViews" target="ChurchWife">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ChurchWife" target="CasualDickTouching">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ChurchWife" target="masturbation">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CasualDickTouching" target="FlashTheTruckers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FlashTheTruckers" target="ChurchWife">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="masturbation" target="WouldYouFuckMyWife">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WouldYouFuckMyWife" target="Footjob">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Footjob" target="Footjob">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="investing" target="BrevilleCoffee">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="investing" target="fatFIRE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BrevilleCoffee" target="TeslaFSD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BrevilleCoffee" target="politics">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BrevilleCoffee" target="fatFIRE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeslaFSD" target="ChubbyFIRE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeslaFSD" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeslaFSD" target="TeslaFSD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TeslaFSD" target="investing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ChubbyFIRE" target="BrevilleCoffee">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="politics" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="fatFIRE" target="SubstituteTeachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="fatFIRE" target="Fire">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SubstituteTeachers" target="PurplePillDebate">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SubstituteTeachers" target="SubstituteTeachers">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SubstituteTeachers" target="marriedredpill">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Bogleheads" target="Fire">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Bogleheads" target="sugarlifestyleforum">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bogleheads" target="Bogleheads">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="sarasota" target="Bogleheads">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="sugarlifestyleforum" target="BrevilleCoffee">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DotA2" target="leaves">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DotA2" target="GuyCry">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="leaves" target="bald">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bald" target="makemychoice">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="makemychoice" target="DotA2">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="lostgeneration" target="jobs">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="jobs" target="ClubStudio">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ClubStudio" target="MightyNo9">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MightyNo9" target="NoStupidQuestions">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MightyNo9" target="cscareerquestions">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NoStupidQuestions" target="animeexpo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="animeexpo" target="EatTheRich">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EatTheRich" target="EatTheRich">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EatTheRich" target="macbookpro">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EatTheRich" target="longbeach">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="macbookpro" target="business">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="business" target="seduction">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GhostAdventures" target="PublicFreakout">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PublicFreakout" target="MightyNo9">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="cscareerquestions" target="California">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="California" target="temptationislandUSA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="temptationislandUSA" target="ROGAlly">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ROGAlly" target="Ningen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Ningen" target="SipsTea">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SipsTea" target="SipsTea">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SipsTea" target="PickUpArtist">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PickUpArtist" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="J_Horror" target="playstation">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="playstation" target="CostaMesa">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CostaMesa" target="antiwork">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="antiwork" target="ROGAllyX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ROGAllyX" target="csMajors">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="csMajors" target="EatTheRich">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="longbeach" target="longbeach">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="longbeach" target="ROGAllyX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Jung" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Bengaluru" target="leetcode">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="leetcode" target="marriedredpill">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>
