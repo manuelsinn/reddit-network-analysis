@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-14">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="jaccard" type="double" />
+    </attributes>
+    <nodes>
+      <node id="TrueUnpopularOpinion" label="TrueUnpopularOpinion" />
+      <node id="datingadviceformen" label="datingadviceformen" />
+      <node id="maybemaybemaybe" label="maybemaybemaybe" />
+      <node id="trashy" label="trashy" />
+      <node id="Vent" label="Vent" />
+      <node id="Tinder" label="Tinder" />
+      <node id="marriedredpill" label="marriedredpill" />
+      <node id="nottheonion" label="nottheonion" />
+      <node id="psychology" label="psychology" />
+      <node id="seduction" label="seduction" />
+      <node id="PurplePillDebate" label="PurplePillDebate" />
+      <node id="movies" label="movies" />
+      <node id="thepassportbros" label="thepassportbros" />
+      <node id="TheRedPill" label="TheRedPill" />
+      <node id="PickUpArtist" label="PickUpArtist" />
+      <node id="MensRights" label="MensRights" />
+    </nodes>
+    <edges>
+      <edge source="TrueUnpopularOpinion" target="MensRights" id="27" weight="961.0">
+        <attvalues>
+          <attvalue for="0" value="0.051" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="PurplePillDebate" id="3552" weight="185.0">
+        <attvalues>
+          <attvalue for="0" value="0.103" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="thepassportbros" id="11305" weight="83.0">
+        <attvalues>
+          <attvalue for="0" value="0.0544" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="Vent" id="11514" weight="165.0">
+        <attvalues>
+          <attvalue for="0" value="0.0886" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="nottheonion" id="11522" weight="116.0">
+        <attvalues>
+          <attvalue for="0" value="0.0612" />
+        </attvalues>
+      </edge>
+      <edge source="datingadviceformen" target="seduction" id="11319" weight="56.0">
+        <attvalues>
+          <attvalue for="0" value="0.1037" />
+        </attvalues>
+      </edge>
+      <edge source="datingadviceformen" target="PickUpArtist" id="11991" weight="59.0">
+        <attvalues>
+          <attvalue for="0" value="0.0609" />
+        </attvalues>
+      </edge>
+      <edge source="maybemaybemaybe" target="movies" id="106" weight="78.0">
+        <attvalues>
+          <attvalue for="0" value="0.0533" />
+        </attvalues>
+      </edge>
+      <edge source="maybemaybemaybe" target="nottheonion" id="10261" weight="95.0">
+        <attvalues>
+          <attvalue for="0" value="0.0668" />
+        </attvalues>
+      </edge>
+      <edge source="maybemaybemaybe" target="Tinder" id="10312" weight="52.0">
+        <attvalues>
+          <attvalue for="0" value="0.052" />
+        </attvalues>
+      </edge>
+      <edge source="maybemaybemaybe" target="trashy" id="10325" weight="60.0">
+        <attvalues>
+          <attvalue for="0" value="0.0702" />
+        </attvalues>
+      </edge>
+      <edge source="trashy" target="movies" id="169" weight="84.0">
+        <attvalues>
+          <attvalue for="0" value="0.0611" />
+        </attvalues>
+      </edge>
+      <edge source="trashy" target="nottheonion" id="11645" weight="75.0">
+        <attvalues>
+          <attvalue for="0" value="0.0552" />
+        </attvalues>
+      </edge>
+      <edge source="trashy" target="Tinder" id="12656" weight="63.0">
+        <attvalues>
+          <attvalue for="0" value="0.0695" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="MensRights" id="28" weight="971.0">
+        <attvalues>
+          <attvalue for="0" value="0.0515" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="movies" id="92" weight="103.0">
+        <attvalues>
+          <attvalue for="0" value="0.0522" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="PurplePillDebate" id="3529" weight="158.0">
+        <attvalues>
+          <attvalue for="0" value="0.0847" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="thepassportbros" id="11301" weight="134.0">
+        <attvalues>
+          <attvalue for="0" value="0.0883" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="nottheonion" id="11548" weight="125.0">
+        <attvalues>
+          <attvalue for="0" value="0.0648" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="Tinder" id="11570" weight="81.0">
+        <attvalues>
+          <attvalue for="0" value="0.0537" />
+        </attvalues>
+      </edge>
+      <edge source="Vent" target="psychology" id="11575" weight="80.0">
+        <attvalues>
+          <attvalue for="0" value="0.0644" />
+        </attvalues>
+      </edge>
+      <edge source="Tinder" target="PurplePillDebate" id="3539" weight="86.0">
+        <attvalues>
+          <attvalue for="0" value="0.0591" />
+        </attvalues>
+      </edge>
+      <edge source="Tinder" target="seduction" id="11322" weight="55.0">
+        <attvalues>
+          <attvalue for="0" value="0.0561" />
+        </attvalues>
+      </edge>
+      <edge source="nottheonion" target="MensRights" id="29" weight="962.0">
+        <attvalues>
+          <attvalue for="0" value="0.051" />
+        </attvalues>
+      </edge>
+      <edge source="nottheonion" target="movies" id="74" weight="241.0">
+        <attvalues>
+          <attvalue for="0" value="0.1325" />
+        </attvalues>
+      </edge>
+      <edge source="psychology" target="PurplePillDebate" id="3519" weight="61.0">
+        <attvalues>
+          <attvalue for="0" value="0.0502" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="PurplePillDebate" id="3518" weight="87.0">
+        <attvalues>
+          <attvalue for="0" value="0.0629" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="thepassportbros" id="11298" weight="71.0">
+        <attvalues>
+          <attvalue for="0" value="0.0691" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="TheRedPill" id="11318" weight="144.0">
+        <attvalues>
+          <attvalue for="0" value="0.0645" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="PickUpArtist" id="11321" weight="177.0">
+        <attvalues>
+          <attvalue for="0" value="0.1452" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="thepassportbros" id="3520" weight="119.0">
+        <attvalues>
+          <attvalue for="0" value="0.0801" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="TheRedPill" id="3540" weight="142.0">
+        <attvalues>
+          <attvalue for="0" value="0.0518" />
+        </attvalues>
+      </edge>
+      <edge source="movies" target="MensRights" id="0" weight="969.0">
+        <attvalues>
+          <attvalue for="0" value="0.0513" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

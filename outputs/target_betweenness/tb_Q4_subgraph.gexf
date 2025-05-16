@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-13">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="jaccard" type="double" />
+    </attributes>
+    <nodes>
+      <node id="marriedredpill" label="marriedredpill" />
+      <node id="economicCollapse" label="economicCollapse" />
+      <node id="dating" label="dating" />
+      <node id="RandomThoughts" label="RandomThoughts" />
+      <node id="seduction" label="seduction" />
+      <node id="Productivitycafe" label="Productivitycafe" />
+      <node id="trueratediscussions" label="trueratediscussions" />
+      <node id="TrueUnpopularOpinion" label="TrueUnpopularOpinion" />
+      <node id="TheRedPill" label="TheRedPill" />
+      <node id="PickUpArtist" label="PickUpArtist" />
+      <node id="selfimprovement" label="selfimprovement" />
+      <node id="thepassportbros" label="thepassportbros" />
+      <node id="MensRights" label="MensRights" />
+      <node id="questions" label="questions" />
+      <node id="UnbelievableStuff" label="UnbelievableStuff" />
+      <node id="shittytattoos" label="shittytattoos" />
+      <node id="bodylanguage" label="bodylanguage" />
+    </nodes>
+    <edges>
+      <edge source="economicCollapse" target="thepassportbros" id="3386" weight="40.0">
+        <attvalues>
+          <attvalue for="0" value="0.0556" />
+        </attvalues>
+      </edge>
+      <edge source="economicCollapse" target="trueratediscussions" id="3387" weight="87.0">
+        <attvalues>
+          <attvalue for="0" value="0.0985" />
+        </attvalues>
+      </edge>
+      <edge source="economicCollapse" target="Productivitycafe" id="3408" weight="60.0">
+        <attvalues>
+          <attvalue for="0" value="0.0825" />
+        </attvalues>
+      </edge>
+      <edge source="economicCollapse" target="questions" id="3413" weight="59.0">
+        <attvalues>
+          <attvalue for="0" value="0.0775" />
+        </attvalues>
+      </edge>
+      <edge source="economicCollapse" target="UnbelievableStuff" id="3422" weight="63.0">
+        <attvalues>
+          <attvalue for="0" value="0.0875" />
+        </attvalues>
+      </edge>
+      <edge source="dating" target="questions" id="6519" weight="38.0">
+        <attvalues>
+          <attvalue for="0" value="0.0601" />
+        </attvalues>
+      </edge>
+      <edge source="dating" target="RandomThoughts" id="7358" weight="32.0">
+        <attvalues>
+          <attvalue for="0" value="0.0535" />
+        </attvalues>
+      </edge>
+      <edge source="dating" target="seduction" id="7375" weight="39.0">
+        <attvalues>
+          <attvalue for="0" value="0.076" />
+        </attvalues>
+      </edge>
+      <edge source="RandomThoughts" target="TrueUnpopularOpinion" id="2687" weight="42.0">
+        <attvalues>
+          <attvalue for="0" value="0.0508" />
+        </attvalues>
+      </edge>
+      <edge source="RandomThoughts" target="trueratediscussions" id="6180" weight="48.0">
+        <attvalues>
+          <attvalue for="0" value="0.0619" />
+        </attvalues>
+      </edge>
+      <edge source="RandomThoughts" target="Productivitycafe" id="6404" weight="69.0">
+        <attvalues>
+          <attvalue for="0" value="0.1206" />
+        </attvalues>
+      </edge>
+      <edge source="RandomThoughts" target="questions" id="6515" weight="78.0">
+        <attvalues>
+          <attvalue for="0" value="0.1309" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="thepassportbros" id="6746" weight="34.0">
+        <attvalues>
+          <attvalue for="0" value="0.0677" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="selfimprovement" id="7374" weight="30.0">
+        <attvalues>
+          <attvalue for="0" value="0.0787" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="PickUpArtist" id="7376" weight="74.0">
+        <attvalues>
+          <attvalue for="0" value="0.1319" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="TheRedPill" id="7377" weight="58.0">
+        <attvalues>
+          <attvalue for="0" value="0.0574" />
+        </attvalues>
+      </edge>
+      <edge source="Productivitycafe" target="trueratediscussions" id="6138" weight="77.0">
+        <attvalues>
+          <attvalue for="0" value="0.1021" />
+        </attvalues>
+      </edge>
+      <edge source="Productivitycafe" target="thepassportbros" id="6371" weight="30.0">
+        <attvalues>
+          <attvalue for="0" value="0.0508" />
+        </attvalues>
+      </edge>
+      <edge source="Productivitycafe" target="questions" id="6380" weight="100.0">
+        <attvalues>
+          <attvalue for="0" value="0.1721" />
+        </attvalues>
+      </edge>
+      <edge source="Productivitycafe" target="UnbelievableStuff" id="6382" weight="35.0">
+        <attvalues>
+          <attvalue for="0" value="0.0575" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="TrueUnpopularOpinion" id="2688" weight="64.0">
+        <attvalues>
+          <attvalue for="0" value="0.0643" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="thepassportbros" id="6122" weight="62.0">
+        <attvalues>
+          <attvalue for="0" value="0.0836" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="questions" id="6142" weight="78.0">
+        <attvalues>
+          <attvalue for="0" value="0.0992" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="UnbelievableStuff" id="6147" weight="62.0">
+        <attvalues>
+          <attvalue for="0" value="0.081" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="shittytattoos" id="6153" weight="32.0">
+        <attvalues>
+          <attvalue for="0" value="0.0513" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="bodylanguage" id="6165" weight="33.0">
+        <attvalues>
+          <attvalue for="0" value="0.0564" />
+        </attvalues>
+      </edge>
+      <edge source="trueratediscussions" target="selfimprovement" id="6178" weight="34.0">
+        <attvalues>
+          <attvalue for="0" value="0.0527" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="MensRights" id="1796" weight="482.0">
+        <attvalues>
+          <attvalue for="0" value="0.0505" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="questions" id="2658" weight="56.0">
+        <attvalues>
+          <attvalue for="0" value="0.0657" />
+        </attvalues>
+      </edge>
+      <edge source="thepassportbros" target="questions" id="6464" weight="35.0">
+        <attvalues>
+          <attvalue for="0" value="0.0565" />
+        </attvalues>
+      </edge>
+      <edge source="thepassportbros" target="UnbelievableStuff" id="6525" weight="31.0">
+        <attvalues>
+          <attvalue for="0" value="0.0529" />
+        </attvalues>
+      </edge>
+      <edge source="questions" target="UnbelievableStuff" id="6479" weight="41.0">
+        <attvalues>
+          <attvalue for="0" value="0.0645" />
+        </attvalues>
+      </edge>
+      <edge source="questions" target="shittytattoos" id="6485" weight="31.0">
+        <attvalues>
+          <attvalue for="0" value="0.0653" />
+        </attvalues>
+      </edge>
+      <edge source="questions" target="bodylanguage" id="6494" weight="30.0">
+        <attvalues>
+          <attvalue for="0" value="0.0685" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

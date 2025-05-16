@@ -1,0 +1,17 @@
+target,neighbor,method,weight,jaccard,weight_prop,jaccard_prop,count,prop
+seduction,TheRedPill,direct,144.0,0.0645,0.4485981308411215,0.30758226037195996,,
+seduction,PickUpArtist,direct,177.0,0.1452,0.5514018691588785,0.6924177396280401,,
+datingadviceformen,PickUpArtist,direct,59.0,0.0609,1.0,1.0,,
+PurplePillDebate,TheRedPill,direct,142.0,0.0518,1.0,1.0,,
+Tinder,seduction,path,,,,,6.0,0.5
+Tinder,trashy,path,,,,,2.0,0.16666666666666666
+Tinder,Vent,path,,,,,2.0,0.16666666666666666
+Tinder,maybemaybemaybe,path,,,,,2.0,0.16666666666666666
+thepassportbros,seduction,path,,,,,2.0,0.5
+thepassportbros,TrueUnpopularOpinion,path,,,,,2.0,0.5
+TrueUnpopularOpinion,MensRights,direct,961.0,0.051,1.0,1.0,,
+nottheonion,MensRights,direct,962.0,0.051,1.0,1.0,,
+psychology,PurplePillDebate,path,,,,,1.0,0.5
+psychology,Vent,path,,,,,1.0,0.5
+Vent,MensRights,direct,971.0,0.0515,1.0,1.0,,
+movies,MensRights,direct,969.0,0.0513,1.0,1.0,,
