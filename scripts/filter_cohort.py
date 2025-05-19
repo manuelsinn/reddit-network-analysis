@@ -9,7 +9,7 @@ Full run        :  --max-lines 0       (default)
 
 Usage
 -----
-python scripts/filter_cohort.py --zst raw/RC_2025-03.zst --userlist filtered/NoFap_userlist.txt --out filtered/cohort_nofap_TEST.jsonl --max-lines 2000000
+python scripts/filter_cohort.py --zst raw/RC_2025-01.zst --userlist filtered/userlists/all_seed_users.txt --out filtered/cohorts/all_seed_users/cohort_2025-01.jsonl --max-lines 2000000
 
 für cohort_marriedredpill.jsonl:
 Gesamtzeilen   : 325,778,061

@@ -13,7 +13,7 @@ in *einem* Durchlauf
 Aufrufbeispiel
 --------------
 
-python scripts/filter_seed_cohort.py --months raw/RC_2024-07.zst raw/RC_2024-08.zst --seeds MensRights,marriedredpill,PickUpArtist,TheRedPill --cohort filtered/cohort_Q3-07-08.jsonl --userlist filtered/userlists/userlist_Q3-07-08.txt
+python scripts/filter_seed_cohort.py --months raw/RC_2025-01.zst raw/RC_2025-02.zst raw/RC_2025-03.zst --seeds MensRights,marriedredpill,PickUpArtist,TheRedPill --cohort filtered/cohort_Q3-07-08.jsonl --userlist filtered/userlists/userlist_Q3-07-08.txt
 
 Optionen
 ~~~~~~~~

@@ -14,8 +14,8 @@ Beispiel:
           --out tb_Q4.csv \
           --neighbors-out tb_Q4_neighbors.csv \
           --subgraph-out tb_Q4_subgraph.gexf
-
-    python scripts/compute_target_betweenness2.py --graph outputs/overlap_total.gexf --targets MensRights,marriedredpill,TheRedPill,PickUpArtist --out outputs/tb_total.csv --neighbors-out outputs/tb_total_neighbors.csv --subgraph-out tb_total_subgraph.gexf
+    
+    python scripts/compute_target_betweenness.py --graph outputs/drifts/transition_graph.gexf --targets MensRights,marriedredpill,TheRedPill,PickUpArtist --out outputs/target_betweenness/tb_total.csv --neighbors-out outputs/target_betweenness/tb_total_neighbors.csv --subgraph-out outputs/target_betweenness/tb_total_subgraph.gexf
 """
 import argparse
 import csv

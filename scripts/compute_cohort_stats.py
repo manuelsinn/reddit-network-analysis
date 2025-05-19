@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 """
+
+
+ACHTUNG: Flaw im Programm! Berechnet scheinbar pro Subreddit die aktiven User und Kommentare, aber die Cohort Files beinhalten *nur* die User, die auch in einem Seed-Subreddit aktiv waren.
+
+
+------------------------------------
 Skript zur Aggregation von Statistik-Kennzahlen für JSONL-Kohorten.
 
 Für jede eingegebene JSONL-Datei (z.B. Q3, Q4, Q1):
