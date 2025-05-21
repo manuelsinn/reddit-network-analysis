@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-21">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="weight_users" type="long" />
+      <attribute id="3" title="weight_transitions" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="users_total" type="long" />
+      <attribute id="1" title="first_entries" type="long" />
+    </attributes>
+    <nodes>
+      <node id="MensRights" label="MensRights">
+        <attvalues>
+          <attvalue for="0" value="14201" />
+          <attvalue for="1" value="7337" />
+        </attvalues>
+      </node>
+      <node id="marriedredpill" label="marriedredpill">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="TheRedPill" label="TheRedPill">
+        <attvalues>
+          <attvalue for="0" value="1178" />
+          <attvalue for="1" value="697" />
+        </attvalues>
+      </node>
+      <node id="seduction" label="seduction">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="VOIP" label="VOIP">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="GawrGura" label="GawrGura">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="malementalhealth" label="malementalhealth">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="fuckxavier" label="fuckxavier">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LeftWingMaleAdvocates" label="LeftWingMaleAdvocates">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="AskMen" label="AskMen">
+        <attvalues>
+          <attvalue for="0" value="297" />
+          <attvalue for="1" value="105" />
+        </attvalues>
+      </node>
+      <node id="911LoneStar" label="911LoneStar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="psychologyofsex" label="psychologyofsex">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="teenagers" label="teenagers">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="girlsarentreal" label="girlsarentreal">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="onexindia" label="onexindia">
+        <attvalues>
+          <attvalue for="0" value="56" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Witcher4" label="Witcher4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="shortguys" label="shortguys">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </node>
+      <node id="Intergalactic" label="Intergalactic">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="JustYuri" label="JustYuri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="GenderCynical" label="GenderCynical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SauceSharingCommunity" label="SauceSharingCommunity">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="fireTV" label="fireTV">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="prolife" label="prolife">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="TrueUnpopularOpinion" label="TrueUnpopularOpinion">
+        <attvalues>
+          <attvalue for="0" value="157" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="pics" label="pics">
+        <attvalues>
+          <attvalue for="0" value="203" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="PurplePillDebate" label="PurplePillDebate">
+        <attvalues>
+          <attvalue for="0" value="190" />
+          <attvalue for="1" value="84" />
+        </attvalues>
+      </node>
+      <node id="PickUpArtist" label="PickUpArtist">
+        <attvalues>
+          <attvalue for="0" value="645" />
+          <attvalue for="1" value="422" />
+        </attvalues>
+      </node>
+      <node id="ConservativeMemes" label="ConservativeMemes">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="WWE" label="WWE">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="appletv" label="appletv">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="marriedredpill" target="TheRedPill" id="17667" weight="3.0">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="TheRedPill" id="1880" weight="5.0">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="PickUpArtist" id="1882" weight="11.0">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="AskMen" id="1886" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="seduction" target="MensRights" id="1912" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="malementalhealth" target="shortguys" id="23424" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="malementalhealth" target="AskMen" id="23426" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="malementalhealth" target="MensRights" id="23427" weight="5.0">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="malementalhealth" target="TheRedPill" id="23432" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="fuckxavier" target="MensRights" id="18355" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="fuckxavier" target="girlsarentreal" id="18357" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="LeftWingMaleAdvocates" target="MensRights" id="10304" weight="11.0">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="LeftWingMaleAdvocates" target="TrueUnpopularOpinion" id="10313" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="MensRights" id="7751" weight="59.0">
+        <attvalues>
+          <attvalue for="2" value="59" />
+          <attvalue for="3" value="59" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="TheRedPill" id="7771" weight="5.0">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="PickUpArtist" id="7778" weight="2.0">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="PurplePillDebate" id="7797" weight="4.0">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="seduction" id="7805" weight="2.0">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="marriedredpill" id="7816" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="pics" id="7876" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="WWE" id="7881" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="TrueUnpopularOpinion" id="7882" weight="3.0">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="AskMen" target="LeftWingMaleAdvocates" id="7918" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="psychologyofsex" target="MensRights" id="16623" weight="2.0">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="psychologyofsex" target="PickUpArtist" id="16625" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="teenagers" target="MensRights" id="4856" weight="17.0">
+        <attvalues>
+          <attvalue for="2" value="17" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="teenagers" target="shortguys" id="4861" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="teenagers" target="PickUpArtist" id="4894" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="girlsarentreal" target="WWE" id="18328" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="girlsarentreal" target="teenagers" id="18331" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="girlsarentreal" target="pics" id="18333" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="onexindia" target="MensRights" id="17216" weight="17.0">
+        <attvalues>
+          <attvalue for="2" value="17" />
+          <attvalue for="3" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="onexindia" target="TheRedPill" id="17227" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="shortguys" target="MensRights" id="10350" weight="35.0">
+        <attvalues>
+          <attvalue for="2" value="35" />
+          <attvalue for="3" value="35" />
+        </attvalues>
+      </edge>
+      <edge source="shortguys" target="AskMen" id="10359" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="shortguys" target="TheRedPill" id="10368" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Intergalactic" target="Witcher4" id="37393" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="SauceSharingCommunity" target="MensRights" id="33549" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="fireTV" target="Intergalactic" id="37392" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="prolife" target="MensRights" id="12742" weight="6.0">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="prolife" target="TheRedPill" id="12756" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="MensRights" id="1357" weight="37.0">
+        <attvalues>
+          <attvalue for="2" value="37" />
+          <attvalue for="3" value="37" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="AskMen" id="1372" weight="3.0">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="shortguys" id="1401" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="TrueUnpopularOpinion" target="pics" id="1406" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="MensRights" id="4069" weight="31.0">
+        <attvalues>
+          <attvalue for="2" value="31" />
+          <attvalue for="3" value="31" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="teenagers" id="4081" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="TrueUnpopularOpinion" id="4093" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="PickUpArtist" id="4117" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="TheRedPill" id="4176" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="pics" target="LeftWingMaleAdvocates" id="4184" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="MensRights" id="1068" weight="61.0">
+        <attvalues>
+          <attvalue for="2" value="61" />
+          <attvalue for="3" value="61" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="TrueUnpopularOpinion" id="1069" weight="4.0">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="LeftWingMaleAdvocates" id="1072" weight="3.0">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="TheRedPill" id="1078" weight="9.0">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="seduction" id="1080" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="PickUpArtist" id="1088" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="shortguys" id="1099" weight="3.0">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="AskMen" id="1101" weight="4.0">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PurplePillDebate" target="malementalhealth" id="1105" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="WWE" target="MensRights" id="17708" weight="2.0">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="appletv" target="fireTV" id="37391" weight="1.0">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
