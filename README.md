@@ -1,20 +1,17 @@
 # Reddit Network Analysis
 
-This repo contains standalone Python scripts for filtering Pushshift Reddit comment dumps, building subreddit graphs for Social Network Analysis, and calculating corresponding stats. The graph files can be opened in Gephi; most scripts also write CSV/JSONL files for further analysis.
-
-The scripts need to be run from the repository root. They take file paths and options on the command line. Run a script with `--help` to see its arguments.
+This repo contains standalone Python scripts for filtering Pushshift Reddit comment dumps, building subreddit graphs for Social Network Analysis, and calculating corresponding stats. 
 
 To explore what this repo can do (following the process described below), checkout the example graphs in the `gephi/` folder! 
+
 To read up on the research process behind all this, check out the preprint [here](https://www.researchgate.net/publication/416882074_Social_Media_as_Platform-Infrastructure_How_Reddit_Shapes_Anti-Feminist_Discourse_Networks).
-
-
 
 
 ## Data and directory layout
 
 The raw Pushshift data is **not included in this repository**. Obtain the
 required monthly archives from the Pushshift archive/torrent distribution and
-put them under `raw/`. Comment archives should be (natively) named like `RC_YYYY-MM.zst` and need not be unzipped. Some scripts can also use submission archives (includes posts) named `RS_YYYY-MM.zst`. Scripts generate intermediate data saved to `filtered/` on the local machine. 
+put them under `raw/`. Comment archives should be (natively) named like `RC_YYYY-MM.zst` and need not be unzipped. Some scripts can also use submission archives (includes posts) named `RS_YYYY-MM.zst`. Scripts generate intermediate data saved to `filtered/` on the local machine. The scripts need to be run from the repository root. They take file paths and options on the command line. Run a script with `--help` to see its arguments.
 
 Typical local layout:
 
@@ -54,12 +51,6 @@ for substantial disk space, memory, and processing time. For a quick test,
 full-file run in either script.
 
 ## Typical workflow
-
-
-
-
-
-
 
 ### 1. Make a seed-user list and a filtered cohort
 
@@ -123,7 +114,9 @@ patterns.
 
 ### 2. Build subreddit graphs
 
-Scripts can build two types of network graphs: overlap and transition graphs. An **overlap graph** is undirected: each edge connects two subreddits with
+Scripts can build two types of network graphs: overlap and transition graphs. The graph files can be opened in Gephi. Most scripts also write CSV/JSONL files for further analysis.
+
+An **overlap graph** is undirected: each edge connects two subreddits with
 shared cohort users. `weight` is the shared-user count, and `jaccard` is the
 Jaccard similarity. The filters below keep edges with at least 30 shared users
 and Jaccard similarity of at least 0.05:
