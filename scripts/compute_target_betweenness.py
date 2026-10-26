@@ -9,7 +9,7 @@ Exports:
 
 Beispiel:
 
-    python scripts/compute_target_betweennessNEW.py 
+    python scripts/compute_target_betweenness.py 
             --graph outputs/drifts/transition_graph.gexf 
             --targets MensRights,marriedredpill,TheRedPill,PickUpArtist 
             --out outputs/tb/tb_all.csv 
@@ -17,7 +17,7 @@ Beispiel:
             --neighbors-out outputs/tb/tb_neighbors.csv
             --subgraph-out outputs/tb/tb_subgraph.gexf
     
-    python scripts/compute_target_betweennessNEW.py --graph outputs/drifts/transition_graph.gexf --targets MensRights,marriedredpill,TheRedPill,PickUpArtist --out outputs/tb/tb_all.csv --user-counts outputs/stats/sub_user_counts_average.csv --neighbors-out outputs/tb/tb_neighbors.csv --subgraph-out outputs/tb/tb_subgraph.gexf
+    python scripts/compute_target_betweenness.py --graph outputs/drifts/transition_graph_new.gexf --targets MensRights,marriedredpill,TheRedPill,PickUpArtist --out outputs/tb/tb_all.csv --user-counts outputs/sub_user_count/sub_user_counts_average.csv --neighbors-out outputs/tb/tb_neighbors.csv --subgraph-out outputs/tb/tb_subgraph.gexf
 """
 import argparse
 import csv
