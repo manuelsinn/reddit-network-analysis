@@ -1,12 +1,12 @@
 # Reddit Network Analysis
 
-This repository contains standalone Python scripts for filtering Pushshift Reddit
-comment dumps, building subreddit graphs, and calculating cohort and graph
-statistics. The graph files can be opened in Gephi; most scripts also write
-CSV/JSONL files for further analysis.
+This repo contains standalone Python scripts for filtering Pushshift Reddit
+comment dumps, building subreddit graphs for Social Network Analysis, and calculating corresponding stats. The graph files can be opened in Gephi; most scripts also write CSV/JSONL files for further analysis.
 
-The scripts expect to be run from the repository root. They take file paths and
+The scripts need to be run from the repository root. They take file paths and
 options on the command line. Run a script with `--help` to see its arguments.
+
+To explore what this repo can do (following the process described below), checkout the example graphs in `gephi/overlap and transition graph.gephi`! :)
 
 ## Data and directory layout
 
